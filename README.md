@@ -1,8 +1,10 @@
-Hello! I am looking for an interesting job!
-I am an ios developer. I'm also a stand-up comedian. Here's a fun mix. 
-You can meet me at the gym or at McDonald's.
+Hello! I am Evgeny!
+Welcom to my GitHub profile!
 
-evgen.burakevich@gmail.com  
+My contact:
+-email - evgen.burakevich@gmail.com  
+-telegram - @eburakevich
+
 
 
 
